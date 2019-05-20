@@ -1,3 +1,4 @@
+#import time library to test time of running two algorithms...
 import time
 from random import shuffle
 
