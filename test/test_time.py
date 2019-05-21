@@ -45,4 +45,4 @@ t4=time.time()
 print("time of running slow insertion sort: ", t4-t3)
 #228.90636706352234
 
-print((t4-t3) - (t2-t1)) #227.2693111896515: Such a large difference.
+print((t4-t3) - (t2-t1)) #227.2693111896515: Such a huge difference.
