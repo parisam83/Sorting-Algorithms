@@ -1,5 +1,4 @@
-'''This insertion sort algorithm 
-   which is wrote by me(Parisa Mousavi)
+'''This insertion sort algorithm
    is faster and much more easier to 
    understand for beginners...'''
    
